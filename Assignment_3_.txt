@@ -1,0 +1,15 @@
+package com.venkat.assign3;
+
+public class Assign3 {
+
+	public static void main(String[] args){
+		int a;
+		float b;
+		boolean trueFalse;
+		
+		a = b;
+		
+		a = trueFalse;
+		
+	}
+}
